@@ -1,26 +1,15 @@
-12 Conclusions
+12 Conclusies
 
-# Conclusions
+# Conclusies
 
-This concludes the Sonic Pi introductory tutorial. Hopefully you've
-learned something along the way. Don't worry if you feel you didn't
-understand everything - just play and have fun and you'll pick things up
-in your own time. Feel free to dive back in when you have a question that
-might be covered in one of the sections.
+Dit concludeert de Sonic Pi inleidende handleiding. Hopelijk heb je hierbij iets nieuws geleerd. Maak je geen zorgen als je het idee hebt dat je niet alles begreep - gewoon spelen en plezier hebben en dan pik je vanzelf steeds meer dingen op. Als je een vraag hebt over een van de onderwerpen die in deze handleiding voorbij is gekomen kan je daar de handleiding op naslaan.
 
-If you have any questions that haven't been covered in the tutorial,
-then please jump onto the [Sonic Pi forums](http://groups.google.com/group/sonic-pi/)
-and ask your question there. You'll find someone friendly and willing to
-lend a hand.
+Indien je nog vragen hebt die niet in deze handleiding zijn behandeld kan je deze opzoeken of stellen op de [Sonic Pi forums](http://groups.google.com/group/sonic-pi/). Daar vind je anderen die bereid zijn om je te helpen.
 
-Finally, I also invite you to take a deeper look at the rest of the
-documentation in this help system. There are a number of features that
-haven't been covered in this tutorial that are waiting for your
-discovery.
+Tenslotte nodig ik je ook graag uit om de rest van de documentatie in het help systeem door te nemen. Daar staan een aantal functionaliteiten die niet in deze handleiding beschreven staan maar wel op ontdekking wachten.
 
-So play, have fun, share your code, perform for your friends, show your
-screens and remember:
+Speel, heb plezier, deel je code, treed op voor je vrienden, laat zien wat je doet en onthou: 
 
-*There are no mistakes, only opportunities.*
+*Er zijn geen fouten, alleen kansen*
 
 [Sam Aaron](http://twitter.com/samaaron)
